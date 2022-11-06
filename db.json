@@ -15,7 +15,7 @@
     {
       "text": "Testeo",
       "day": "qqq",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     }
   ]
